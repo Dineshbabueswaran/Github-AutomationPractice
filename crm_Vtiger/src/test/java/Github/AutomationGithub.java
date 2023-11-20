@@ -6,7 +6,7 @@ public class AutomationGithub {
 		
 		System.out.println("Github Practice");
 		System.out.println();
-		System.out.println("khAGdflgldfllKUHGAf");
+		System.out.println("khAGdflgldf");
 
 	}
 
