@@ -7,6 +7,8 @@ public class AutomationGithub {
 		System.out.println("Github Practice");
 		System.out.println();
 		System.out.println("khAGdflgldf");
+		//New push to branch 
+		//Switch to branch 
 
 	}
 
